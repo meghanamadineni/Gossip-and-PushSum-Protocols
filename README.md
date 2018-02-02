@@ -1,8 +1,9 @@
 # Project2
 
-###Group:Meghana Madineni (91978425) & Amrutha Chowdary Alaparthy (66905246)
+### Group:
+Meghana Madineni (91978425) & Amrutha Chowdary Alaparthy (66905246)
 
-#Working :
+### Working:
   project2 takes the arguments (numberOfNodes, topology, algorithm).
   
   we start the Genservers same as the numberOfNodes.
@@ -17,13 +18,13 @@
   Every time we send a message to actor we check s/w ration and if the ratio doesn't change more than given ration we terminate the node. 
 
 
-#largest network we manged to deal with for each type of topology and algorithm
-Gossip Protocol:
+### Largest network we manged to deal with for each type of topology and algorithm:
+#### Gossip Protocol:
     Full:  5000 nodes -> 812531 milliseconds
     2D:    10000 nodes -> 1531 milliseconds
     imp2D: 10000 nodes -> 2078 milliseconds
     line:  10000 nodes -> 922 milliseconds
-Push-Sum algorithm :
+#### Push-Sum algorithm :
     Full:  5000  nodes -> 656547 milliseconds
     2D:    5000  nodes -> 694094 milliseconds
     imp2D: 10000 nodes -> 23032 milliseconds
