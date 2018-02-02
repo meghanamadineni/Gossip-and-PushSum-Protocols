@@ -4,9 +4,9 @@
 Meghana Madineni (91978425) & Amrutha Chowdary Alaparthy (66905246)
 
 ### Working:
-  project2 takes the arguments (numberOfNodes, topology, algorithm).
+  This project takes the arguments (numberOfNodes, topology, algorithm).
   
-  we start the Genservers same as the numberOfNodes.
+  We start the Genservers same as the numberOfNodes.
   
   According to the topology given as input we modify the neighbours list of the node. 
   
